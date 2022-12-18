@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/veralkohol_mero/static/css/main.39308227.css",
-    "main.js": "/veralkohol_mero/static/js/main.b3611548.js",
+    "main.js": "/veralkohol_mero/static/js/main.2f2b99c3.js",
     "static/media/Yor.png": "/veralkohol_mero/static/media/Yor.b7c09615cd3a9d77a60e.png",
     "index.html": "/veralkohol_mero/index.html",
     "main.39308227.css.map": "/veralkohol_mero/static/css/main.39308227.css.map",
-    "main.b3611548.js.map": "/veralkohol_mero/static/js/main.b3611548.js.map"
+    "main.2f2b99c3.js.map": "/veralkohol_mero/static/js/main.2f2b99c3.js.map"
   },
   "entrypoints": [
     "static/css/main.39308227.css",
-    "static/js/main.b3611548.js"
+    "static/js/main.2f2b99c3.js"
   ]
 }
